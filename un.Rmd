@@ -1,0 +1,48 @@
+---
+title: "Developing Data Products"
+author: "Bidalika Kumari"
+date: "22/07/2020"
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Shiny Application
+
+#### To analyze the code you can go to  
+#### To see the shiny app you can go to 
+
+## What is the function of this application ?
+
+This application is ment to help you in 
+visualisation of the ploing of the random data.
+
+- It allows you to visualise the ploting of random 
+number of points within a specified x and y range .
+- You can use the slider to select the value of minimum 
+and maximum of X Axis and Y Axis.
+- And then you can check the check boxes according 
+to your wish if you want to see or hide the x label 
+or y label or the main title of the graph.
+
+## R Output
+The R code that is necessary before running any shiny application.
+```{r echo=TRUE}
+library(shiny)
+```
+
+## How will your output come ?
+
+- First the default settings will be shown to you.
+- You can edit the number of points to be ploted ,the range 
+or x axis and y axis in which the points should be plotted.
+- When you check the given boxes there then you can see the 
+labels of x and y axis and the main title of the graph.
+- You must click the button apply changes every time you 
+change somethings.
+
+## Thank You
+
+
