@@ -1,0 +1,12 @@
+name: newapp
+title: newapp
+username:
+account: bidalika-20
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2599096
+bundleId: 3418848
+url: https://bidalika-20.shinyapps.io/newapp/
+when: 1595370377.22656
+asMultiple: FALSE
+asStatic: FALSE

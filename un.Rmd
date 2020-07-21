@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Shiny Application
 
-#### To analyze the code you can go to  
+#### To analyze the code you can go to https://github.com/Bidalika/shiny/tree/master/newapp
 #### To see the shiny app you can go to 
 
 ## What is the function of this application ?
